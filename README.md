@@ -134,7 +134,7 @@ Revenue grew, but spend grew faster, so efficiency (ROAS) declined.
 
 ## Credits
 
-- **Dataset:** [TrumpExcel, Excel sample data] 
+- **Dataset:** [TrumpExcel, Excel sample data] https://trumpexcel.com/excel-sample-data/
 - **Dashboard layout inspiration:** CFI (Corporate Finance Institute), *Excel Data Visualization and Dashboards* template
 
 Please review the original sources' terms before redistributing their files.
