@@ -134,7 +134,7 @@ Revenue grew, but spend grew faster, so efficiency (ROAS) declined.
 
 ## Credits
 
-- **Dataset:** [TrumpExcel, Excel sample data](PASTE-LINK-HERE)
+- **Dataset:** [TrumpExcel, Excel sample data] 
 - **Dashboard layout inspiration:** CFI (Corporate Finance Institute), *Excel Data Visualization and Dashboards* template
 
 Please review the original sources' terms before redistributing their files.
@@ -142,3 +142,5 @@ Please review the original sources' terms before redistributing their files.
 ## Author
 
 Jitendriya Satyadarshi 
+
+[Marketing_Campaign_Dashboard.xlsx](https://github.com/user-attachments/files/35160271/Marketing_Campaign_Dashboard.xlsx)
