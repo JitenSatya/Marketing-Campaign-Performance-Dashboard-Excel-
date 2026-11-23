@@ -1,7 +1,7 @@
 # Marketing-Campaign-Performance-Dashboard-Excel-
 An Excel dashboard that analyzes 1,000 marketing campaigns across 5 channels (Jan 2024 – Nov 2025) and answers three business questions about return on ad spend (ROAS), budget discipline, and performance over time.
 
-![Dashboard preview]
+
 <img width="871" height="768" alt="exceldashboard png" src="https://github.com/user-attachments/assets/02349144-5540-47ee-bd0b-ab3750a88db1" />
 
 
@@ -123,14 +123,7 @@ Revenue grew, but spend grew faster, so efficiency (ROAS) declined.
 - Rebuild the dashboard in Power BI
 - Add cost and margin data (if available) to measure profit instead of ROAS
 
-## Repository structure
 
-```
-├── README.md
-├── Marketing_Campaign_Dashboard.xlsx
-└── images/
-    └── exceldashboard.png
-```
 
 ## Credits
 
@@ -141,6 +134,6 @@ Please review the original sources' terms before redistributing their files.
 
 ## Author
 
-Jitendriya Satyadarshi 
+**Jitendriya Satyadarshi**
 
 [Marketing_Campaign_Dashboard.xlsx](https://github.com/user-attachments/files/35160271/Marketing_Campaign_Dashboard.xlsx)
